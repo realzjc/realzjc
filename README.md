@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 - 🔭 Actively looking for co-op/internship opportunities in Canada.
 - ⚡ Swimming, hiking, and all kinds of ball games and outdoor activities
 - 📫 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:realzjca@gmail.com)
-   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jiacheng-zhao-670500270/)
-   ![Website](https://img.shields.io/badge/-Website-brightgreen?style=flat&logo=Google%20Chrome)
+   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/realzjc/)
+   ![Website](https://img.shields.io/badge/-Website-brightgreen?style=flat&logo=Google%20Chrom)
 
-[![Hongyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=ASDIC4&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Hongyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=realzjc&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASDIC4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realzjc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 - 
