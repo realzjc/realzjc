@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 📫 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:realzjca@gmail.com)
    [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/realzjc/)
    ![Website](https://img.shields.io/badge/-Website-brightgreen?style=flat&logo=Google%20Chrom)
-
+<!--
 [![Hongyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=realzjc&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realzjc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
