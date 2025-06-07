@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 
 I'm a passionate Fullstack Developer and AI enthusiast who thrives on building practical, impactful solutions. I bring versatility, technical depth, and a problem-solving mindset to everything I work on.
 
+<!--
 ## 💻 Tech Stack
 
 <div align="center">
@@ -60,7 +61,7 @@ I'm a passionate Fullstack Developer and AI enthusiast who thrives on building p
 <!--
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
   ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-  -->
+
   ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
   ### Databases
@@ -77,7 +78,7 @@ I'm a passionate Fullstack Developer and AI enthusiast who thrives on building p
   ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
 
 </div>
-
+-->
 <!--
 ## 🚀 Projects
 - **[rejex.fyi](https://rejex.fyi)** - Tinder for jobs
