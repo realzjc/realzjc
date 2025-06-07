@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there I am Jiacheng Zhao👋
-
 - 🌱 Currently a graduate student specializing in Computer Science at UVic
 - 🔭 Actively looking for co-op/internship opportunities in Canada.
 - ⚡ Swimming, hiking, and all kinds of ball games and outdoor activities
@@ -23,7 +21,7 @@ Here are some ideas to get you started:
    [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/realzjc/)
    ![Website](https://img.shields.io/badge/-Website-brightgreen?style=flat&logo=Google%20Chrom)
 
-# 👋 Hi, I'm Aditya Shetty
+# 👋 Hi, I'm Jiacheng Zhao
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=00A4EF&center=true&vCenter=true&random=false&width=600&height=100&lines=Fullstack+Developer;AI+Enthusiast;Perpetual+Learner" alt="Typing SVG" />
@@ -54,8 +52,10 @@ I'm a passionate Fullstack Developer and AI enthusiast who thrives on building p
   ### Backend
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+<!--
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
   ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+  -->
   ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
   ### Databases
