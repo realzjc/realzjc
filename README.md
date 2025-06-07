@@ -30,6 +30,8 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=00A4EF&center=true&vCenter=true&random=false&width=600&height=100&lines=Fullstack+Developer;AI+Enthusiast;Perpetual+Learner" alt="Typing SVG" />
 </div>
 -->
+
+
 ## 🚀 About Me
 
 I'm a passionate Fullstack Developer and AI enthusiast who thrives on building practical, impactful solutions. I bring versatility, technical depth, and a problem-solving mindset to everything I work on.
@@ -108,13 +110,15 @@ I'm a passionate Fullstack Developer and AI enthusiast who thrives on building p
 </div>
 
 -->
+
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lionhearted1&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lionhearted1&theme=radical" alt="GitHub Streak" />
 </div>
-
+-->
 ---
 
 <div align="center">
