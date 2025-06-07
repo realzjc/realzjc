@@ -34,7 +34,11 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-I'm a passionate Fullstack Developer and AI enthusiast who thrives on building practical, impactful solutions. I bring versatility, technical depth, and a problem-solving mindset to everything I work on.
+I'm a passionate Fullstack Developer and AI enthusiast who thrives on building practical, impactful solutions. 
+
+Interested in RAG, Agent and MCP.
+
+I bring versatility, technical depth, and a problem-solving mindset to everything I work on.
 
 <!--
 ## 💻 Tech Stack
