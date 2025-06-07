@@ -121,15 +121,16 @@ I'm a passionate Fullstack Developer and AI enthusiast who thrives on building p
 </div>
 -->
 ---
-
+<!--
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Lionhearted1&style=flat-square&color=blue" alt="Profile Views" />
 </div> 
+-->
 <!--
 [![Hongyang's GitHub stats](https://github-readme-stats.vercel.app/api?username=realzjc&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realzjc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 <!--
 - 
 - 💼
