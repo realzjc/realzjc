@@ -76,6 +76,7 @@ I'm a passionate Fullstack Developer and AI enthusiast who thrives on building p
 
 </div>
 
+<!--
 ## 🚀 Projects
 - **[rejex.fyi](https://rejex.fyi)** - Tinder for jobs
   - Tinder like job application platform with instant responses and feedbacks from companies with the help of LLM
@@ -106,6 +107,7 @@ I'm a passionate Fullstack Developer and AI enthusiast who thrives on building p
   </a>
 </div>
 
+-->
 ## 📊 GitHub Stats
 
 <div align="center">
