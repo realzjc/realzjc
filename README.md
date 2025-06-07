@@ -120,7 +120,7 @@ I'm a passionate Fullstack Developer and AI enthusiast who thrives on building p
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lionhearted1&theme=radical" alt="GitHub Streak" />
 </div>
 -->
----
+
 <!--
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Lionhearted1&style=flat-square&color=blue" alt="Profile Views" />
