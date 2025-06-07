@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - 🔭 Actively looking for co-op/internship opportunities in Canada.
 - ⚡ Swimming, hiking, and all kinds of ball games and outdoor activities
 -->
+
+<!--
 - 📫 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:realzjca@gmail.com)
    [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/realzjc/)
    ![Website](https://img.shields.io/badge/-Website-brightgreen?style=flat&logo=Google%20Chrom)
@@ -27,7 +29,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=00A4EF&center=true&vCenter=true&random=false&width=600&height=100&lines=Fullstack+Developer;AI+Enthusiast;Perpetual+Learner" alt="Typing SVG" />
 </div>
-
+-->
 ## 🚀 About Me
 
 I'm a passionate Fullstack Developer and AI enthusiast who thrives on building practical, impactful solutions. I bring versatility, technical depth, and a problem-solving mindset to everything I work on.
