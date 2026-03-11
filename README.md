@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 Passionate Fullstack Developer and AI enthusiast who thrives on building practical, impactful solutions. 
 
-Interested in RAG, Agent and MCP.
+Interested in Agent, RAG and MCP.
 
 
 <!--
