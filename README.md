@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-Passionate Fullstack Developer and AI enthusiast who thrives on building practical, impactful solutions. 
+Passionate AI enthusiast & fullstack developer who thrives on building practical, impactful solutions. 
 
-Interested in Agent, RAG and MCP.
+Interested in AI Agent, MCP & RAG.
 
 
 <!--
